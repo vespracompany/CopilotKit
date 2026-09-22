@@ -9,6 +9,6 @@
     "@copilotkit/aimock": "1.10.0",
     "@copilotkit/core": "workspace:*",
     "@copilotkit/runtime": "workspace:*",
-    "ws": "8.18.3"
+    "ws": "8.21.0"
   }
 }

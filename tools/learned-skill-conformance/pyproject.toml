@@ -5,8 +5,8 @@ requires-python = ">=3.11"
 dependencies = [
   "copilotkit-intelligence-langgraph",
   "copilotkit-intelligence-adk",
-  "langchain-openai>=1,<2",
-  "litellm>=1.75,<2",
+  "langchain-openai>=1.6.3,<2",
+  "litellm>=1.102.0,<2",
 ]
 
 [tool.uv]
